@@ -14,4 +14,4 @@ How to use:
 
 - Note: The songs will be downloaded to the same folder as the code.
 
-Enjoy 
+Enjoy and leave a star <3
