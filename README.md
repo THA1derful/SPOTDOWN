@@ -1,5 +1,8 @@
 # SPOTDOWN
 Spotify Song Downloader for PC
+
+NOTE: SCRIPT IS OBFUSCATED FOR SECURITY.
+
 How to use:
 
 
