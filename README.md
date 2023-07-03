@@ -16,7 +16,7 @@ How to use:
   
 - ALL FILES NEEDS TO BE PRESENT TO RUN THE CODE(except for the png picture of course)
 
-# UPDATEd TO V2:
+# UPDATED TO V2:
 
 
 -Now Shows the song name in the script when u enter the link.
